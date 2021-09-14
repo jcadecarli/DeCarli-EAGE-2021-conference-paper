@@ -1,10 +1,6 @@
- fr
-This code is a application of the causal inference framework of Tigramite 4.2, created by Runge XXXX
+ fr Repository for SKOLTECH
 
-to run this codes please install TIGRAMITE in your Unix distribution or run the notebook via colab from any operational system distribution (recomended)
-
-Please, refer to <tigramite> TIGRAMITE installation to run the notebook at your unix system or refer directely to the Colab notebook (recommended to avoid issues
-with current cython and xxx import to the code, whether you desire to run the CMIknn and GPDC conditional independent tests.
+ther you desire to run the CMIknn and GPDC conditional independent tests.
 
 
 Installation link (https://github.com/jakobrunge/tigramite#installation)
